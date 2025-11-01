@@ -1,7 +1,7 @@
 export const projectsData = [
   {
     id: "it-support",
-    title: "Soporte Técnico de TI",
+    title: "Soporte Técnico de TI nuevo",
     titleEn: "IT Technical Support",
     description: "Dashboard interactivo para monitoreo de tickets, tiempos de respuesta y métricas de soporte técnico.",
     descriptionEn: "Interactive dashboard for ticket monitoring, response times and technical support metrics.",
