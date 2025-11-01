@@ -47,4 +47,12 @@ export const projectsData = [
     descriptionEn: "Comprehensive inventory tracking, demand forecasting and stock optimization.",
     image: "/inventory-management-preview.jpg",
   },
+{
+  id: "Finance-Dashboard",
+  title: "Dashboard de Finanzas",
+  titleEn: "Finance Dashboard",
+  description: "Estados financieros generales.",
+  descriptionEn: "General financial statements.",
+  image: "/inventory-management-preview.jpg",
+},
 ]
