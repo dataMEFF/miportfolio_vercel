@@ -109,9 +109,9 @@ titleEn: "Dashboard Financiero",
 description: "Estados Financieros Generales.",
 descriptionEn: "General financial statements.",
 longDescription:
-  "Proyecto de análisis de datos públicos de la NASA sobre misiones espaciales históricas. Incluye análisis de costos, líneas 
+  "Proyecto de análisis de datos públicos de la NASA sobre misiones espaciales históricas. Incluye análisis de costos, líneas de tiempo de proyectos, métricas de éxito y comparativas entre agencias espaciales.",
 longDescriptionEn:
-  "Project analyzing public NASA data on historical space missions. Includes cost analysis, project timelines, success metrics
+  "Project analyzing public NASA data on historical space missions. Includes cost analysis, project timelines, success metrics and comparisons between space agencies.",
 tools: ["Microsoft Power BI", "Power Query", "Figma"],
 date: "2023",
 imageUrl: "/space-missions-data.jpg",
@@ -127,7 +127,7 @@ resultsEs: [
   "Identificados patrones de optimización de costos",
 ],
 powerBiEmbedUrl:
-  "https://app.powerbi.com/view?r=eyJrIjoiNDcwM2FlZTktMTc4ZC00MWY0LWE3OGYtOTg2YjEyNTBjNGQyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05
+  "https://app.powerbi.com/view?r=eyJrIjoiNDcwM2FlZTktMTc4ZC00MWY0LWE3OGYtOTg2YjEyNTBjNGQyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9",
   },
 }
 
