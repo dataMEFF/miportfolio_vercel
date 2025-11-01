@@ -27,7 +27,7 @@ const projectsData = {
       { name: "Trend forecasting", descEs: "Pronóstico de tendencias" },
     ],
     results: ["50% reduction in response time", "85% ticket resolution rate"],
-    resultsEs: ["50% reducción en tiempo de respuesta", "85% tasa de resolución de tickets"],
+    resultsEs: ["50% reducción en tiempo de respuesta", "85% tasa de resolución de tickets prueba "],
     powerBiEmbedUrl:
       "https://app.powerbi.com/view?r=eyJrIjoiOTcwMmQ5ZTItYTUwNC00MmUxLTk1NjAtNmZjNTg2NTA1ZmQ1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9",
   },
