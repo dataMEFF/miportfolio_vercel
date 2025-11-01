@@ -103,6 +103,32 @@ const projectsData = {
     powerBiEmbedUrl:
       "https://app.powerbi.com/view?r=eyJrIjoiNDcwM2FlZTktMTc4ZC00MWY0LWE3OGYtOTg2YjEyNTBjNGQyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9",
   },
+  "Finance-Dashboard": {
+title: "Finance-Dashboard",
+titleEn: "Dashboard Financiero",
+description: "Estados Financieros Generales.",
+descriptionEn: "General financial statements.",
+longDescription:
+  "Proyecto de análisis de datos públicos de la NASA sobre misiones espaciales históricas. Incluye análisis de costos, líneas 
+longDescriptionEn:
+  "Project analyzing public NASA data on historical space missions. Includes cost analysis, project timelines, success metrics
+tools: ["Microsoft Power BI", "Power Query", "Figma"],
+date: "2023",
+imageUrl: "/space-missions-data.jpg",
+features: [
+  { name: "Mission timeline", descEs: "Cronograma de misiones" },
+  { name: "Cost analysis", descEs: "Análisis de costos" },
+  { name: "Success rate metrics", descEs: "Métricas de tasa de éxito" },
+  { name: "Agency comparison", descEs: "Comparación de agencias" },
+],
+results: ["Visualized 60+ years of space mission data", "Identified cost optimization patterns"],
+resultsEs: [
+  "Visualizados 60+ años de datos de misiones espaciales",
+  "Identificados patrones de optimización de costos",
+],
+powerBiEmbedUrl:
+  "https://app.powerbi.com/view?r=eyJrIjoiNDcwM2FlZTktMTc4ZC00MWY0LWE3OGYtOTg2YjEyNTBjNGQyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05
+  },
 }
 
 export default function ProjectDetail() {
