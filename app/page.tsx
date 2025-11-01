@@ -949,7 +949,7 @@ export default function DataMEFFWebsite() {
           </div>
 
           <Card className="p-8">
-            <form className="space-y-6" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+            <form className="space-y-6" action="https://formspree.io/f/xldookwl" method="POST">
               <div>
                 <label htmlFor="name" className="block text-sm font-medium mb-2">
                   {t.contact.name}
