@@ -127,7 +127,7 @@ resultsEs: [
   "Identificados patrones de optimización de costos",
 ],
 powerBiEmbedUrl:
-  "https://app.powerbi.com/view?r=eyJrIjoiNDcwM2FlZTktMTc4ZC00MWY0LWE3OGYtOTg2YjEyNTBjNGQyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9",
+  "https://app.powerbi.com/view?r=eyJrIjoiYjRlMjcxOTgtZDU0Zi00MzljLTg2OTMtMGU1NzQ2NmEyMzEwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9",
   },
 }
 
